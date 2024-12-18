@@ -1,0 +1,7 @@
+*first of all create a store for redux.
+ Then the store will be wrapped in a layout inside a provider.
+
+ *create a slice for every indivisual feature inside the redux folder.
+ 
+
+
